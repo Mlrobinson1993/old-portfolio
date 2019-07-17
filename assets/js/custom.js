@@ -119,13 +119,13 @@
 * WOW Animation When You Scroll
 /* ---------------------------------------------- */
 
-  new WOW().init();
+
 
   /* ---------------------------------------------- /*
 * A jQuery plugin for fluid width video embeds
 /* ---------------------------------------------- */
 
-  $("body").fitVids();
+
 })(jQuery);
 
 let listItems = [...document.querySelectorAll(".alternative-intro")];
